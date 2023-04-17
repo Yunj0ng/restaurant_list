@@ -27,6 +27,7 @@ Listening on http://localhost:3000
 6. 若欲暫停使用， 輸入:
 ```
 ctrl + c
+```
 
 ## 開發工具
 - Node.js 18.16.0
